@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"domain","l":"Coronavirus"},{"p":"domain","l":"Elemento"},{"p":"domain","l":"Juego"},{"p":"domain","l":"Jugador"},{"p":"ui","l":"JVentanaJuego"},{"p":"ui","l":"PanelJuego"},{"p":"domain","l":"Piedra"},{"p":"domain","l":"Tablero"},{"p":"util","l":"Util"}]
